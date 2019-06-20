@@ -1,0 +1,67 @@
+.head {
+text-align: center;
+position: relative;
+top: 100px;
+}
+
+.line {
+    position: relative;
+    top: -10px;
+}
+
+.txth {
+    font-family: "OpenSans";
+    font-size: 20px;
+} 
+
+h1 {
+    font-size: 36px;
+    font-family: "Raleway";
+    position: relative;
+}
+
+p {
+    font-size: 18px;
+    font-family: "OpenSans";
+    opacity: 0.5;
+}
+
+.b1 {
+    text-align: left;
+    position: relative;
+    top: 250px;
+}
+
+.lamp {
+    position: relative;
+    left: 60px;
+    top: -5px;
+}
+
+.b2 {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.keyboard {
+    position: relative;
+    top: -9px;
+}
+
+.b3 {
+    text-align: right;
+    position: relative;
+    top: -151px;
+}
+
+.light {
+    position: relative;
+    right: 60px;
+    top: -8px;
+}
+  
+  
+  
+  
+  
